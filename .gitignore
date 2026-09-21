@@ -1,0 +1,16 @@
+.DS_Store
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.log
+.idea/
+.vscode/
+data/raw/
+data/private/
+*.tif
+*.tiff
+*.raw
+
